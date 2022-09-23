@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ## Hi Bro 👋
 
-- 👨‍🎓 &nbsp;My name is Albumen, a senior junior college students
+- 👨‍🎓 &nbsp;My name is Albumen
 
 - 📍&nbsp;&nbsp;&nbsp;I'm currently learning Java Backend
 
 - 📖 I'm interested in Mirco Service, Service Mesh
 
-- 🎖️&nbsp;&nbsp;I'm a Apache Dubbo Committer
+- 🎖️&nbsp;&nbsp;I'm a Apache Dubbo PMC
 
 - 📫 How to reach me: mail to jhq0812@gmail.com
 <br/><br/>
